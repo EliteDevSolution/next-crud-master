@@ -6,7 +6,6 @@
   - [1. Folder Structures](#1-folder-structures)
   - [2. Libraries & Frameworks](#2-libraries--frameworks)
   - [3. Installation & Set Up](#3-installation--set-up)
-  - [4. License](#4-license)
 
 ## 1. Folder Structures
 
